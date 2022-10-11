@@ -59,8 +59,6 @@ textarea {
 
 .saveBtn {
   border-left: 1px solid black;
-  /* border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px; */
   background-color: #1e6f81;
   color: white;
 }
@@ -72,8 +70,6 @@ textarea {
 
 .clearBtn {
   border-left: 1px solid black;
-  /* border-top-right-radius: 15px;
-  border-bottom-right-radius: 15px; */
   background-color: #7f3832f2;
   color: white;
 }
