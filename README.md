@@ -13,12 +13,9 @@ N/A
 
 ## Usage
 - Try it out:
-https://joseobm92.github.io/Web-APIs-Code-Quiz/
+https://joseobm92.github.io/Work-Day-Scheduler/
 
-![alt text](Assets/Screen%20Shot%202022-10-06%20at%209.13.52%20PM.png)
-![alt text](Assets/Screen%20Shot%202022-10-06%20at%209.14.08%20PM.png)
-![alt text](Assets//Screen%20Shot%202022-10-06%20at%209.14.59%20PM.png)
-![alt text](Assets/Screen%20Shot%202022-10-06%20at%209.15.12%20PM.png)
+![alt text](Assets/images/_Users_elbarre_Documents_UCF_local-week-3_Challenge-week-3_chall-5_Work-Day-Scheduler_index.html.png)
 
 ## Credits
 
